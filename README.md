@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# Expo
+Mailer con delayed jobs
+>>>>>>> 42ca729e845a3d2436070235856f49e4ada9e719
