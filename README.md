@@ -1,3 +1,9 @@
+# EXPO 6
+
+Trabajo en clase realizado en workspace de cloud9 con descripcion: jobs exposicion
+
+![alt text](http://drive.google.com/uc?export=view&id=1qXIjM6hMOz5mwcua_Yk0Cc8AxEFFHd5Z)
+
 <<<<<<< HEAD
 # README
 
